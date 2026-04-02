@@ -8,6 +8,6 @@
 #팀원 : 권민재, 김종헌, 이영민
 
 
-# Fetch & Merge
-## A
+## Fetch & Merge
+### A
 ### B
